@@ -2,6 +2,10 @@
 
 Welcome to the Sudoku Game, a classic logic-based number placement puzzle built using React.js. Challenge your mind with this engaging game designed to test your logical thinking and strategic skills.
 
+## Demo
+
+- https://master--fantastic-taffy-9cea1c.netlify.app/
+
 ## Game Overview
 
 - The Sudoku board consists of a 9x9 grid, with each cell potentially containing a digit from 1 to 9.
